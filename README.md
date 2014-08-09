@@ -9,13 +9,13 @@ Quick start
 To run the tests bundled into this directory:
 
 1. Install ruby and the rspec gem if not installed,
-```
-gem install rspec
-```
+  ```
+  gem install rspec
+  ```
 
 2. To run the tests, run within the root directory:
-```
-rspec spec
-```
+  ```
+  rspec spec
+  ```
 
 3. The output for the tests will be logged into the console.
